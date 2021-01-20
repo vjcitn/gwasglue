@@ -1,6 +1,6 @@
 Package: gwasglue
 Title: GWAS summary data sources connected to analytical tools
-Version: 0.0.0.9000
+Version: 0.0.0.9000-1
 Authors@R: 
     person(given = "Gibran",
            family = "Hemani",
@@ -27,7 +27,7 @@ Imports:
     susieR,
     finemapr
 Remotes:
-    mrcieu/gwasvcf,
+    vjcitn/gwasvcf,
     rondolab/MR-PRESSO,
     mrcieu/ieugwasr,
     mrcieu/TwoSampleMR,
