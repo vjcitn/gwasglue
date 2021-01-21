@@ -1,6 +1,6 @@
 Package: gwasglue
 Title: GWAS summary data sources connected to analytical tools
-Version: 0.0.0.9000-1
+Version: 0.0.0.9000-2
 Authors@R: 
     person(given = "Gibran",
            family = "Hemani",
@@ -35,7 +35,7 @@ Remotes:
     WSpiller/RadialMR,
     gqi/MRMix,
     stephenslab/susieR,
-    variani/finemapr
+    vjcitn/finemapr
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
