@@ -14,6 +14,9 @@ knitr::opts_chunk$set(
 )
 ```
 
+NOTE: This vignette is built from a fork.  MRMix is not imported for the container
+underlying this workshop package owing to github rate limit.
+
 To use the [IEU GWAS database](https://gwas.mrcieu.ac.uk/) for MR analysis, see the [TwoSampleMR](https://mrcieu.github.io/TwoSampleMR/) R package.
 
 Here we'll demonstrate how to achieve the same data extractions using the [GWAS VCF](https://github.com/MRCIEU/gwas_vcf_spec) files.

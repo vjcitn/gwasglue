@@ -1,6 +1,6 @@
 Package: gwasglue
 Title: GWAS summary data sources connected to analytical tools
-Version: 0.0.0.9000-2
+Version: 0.0.0.9000-3
 Authors@R: 
     person(given = "Gibran",
            family = "Hemani",
@@ -21,7 +21,6 @@ Imports:
     MendelianRandomization,
     MRPRESSO,
     RadialMR,
-    MRMix,
     TwoSampleMR,
     magrittr,
     susieR,
@@ -33,7 +32,6 @@ Remotes:
     mrcieu/TwoSampleMR,
     mrcieu/MRInstruments,
     WSpiller/RadialMR,
-    gqi/MRMix,
     stephenslab/susieR,
     vjcitn/finemapr
 License: MIT + file LICENSE
